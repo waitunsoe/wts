@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @WaiTunSoe
-- 👀 I’m interested in python.
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m a professional freelance frontend web developer.
+- 👀 I’m interested in web development and android developmet..
+- 🌱 I’m currently learning php, laraval and java.
+- 📫 How to reach me..
+mail- learningofmine@gmail.com
 
 <!---
 WaiTunSoe/WaiTunSoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
